@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![npm version](https://badge.fury.io/js/fastify-shopify-auth.svg)](https://badge.fury.io/js/fastify-shopify-auth)
 
-`fastify-shopify-auth` is a plugin for the [Fastify](https://github.com/fastify/fastify) framework that is based on [@shopify/koa-shopify-auth](hhttps://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth/).
+`fastify-shopify-auth` is a plugin for the [Fastify](https://github.com/fastify/fastify) framework that is based on [@shopify/koa-shopify-auth](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth/).
 
 ## Requirements
 
