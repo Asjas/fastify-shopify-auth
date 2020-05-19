@@ -1,0 +1,24 @@
+{
+  "name": "fastify-shopify-auth",
+  "author": "A-J Roos <asjas@outlook.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist/fastify-shopify-graphql-proxy.esm.js",
+  "bugs": {
+    "url": "https://ggithub.com:Asjas/fastify-shopify-auth/issues",
+    "email": "asjas@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:Asjas/fastify-shopify-auth.git"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
