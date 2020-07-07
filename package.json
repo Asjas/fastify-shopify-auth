@@ -31,7 +31,7 @@
     "prepare": "tsdx build"
   },
   "dependencies": {
-    "fastify-plugin": "^1.6.1",
+    "fastify-plugin": "^2.0.0",
     "isomorphic-fetch": "^2.2.1",
     "nonce": "1.0.4",
     "shopify-token": "^4.0.0"
