@@ -9,7 +9,7 @@
 ## Requirements
 
 Node.js v10 or later.
-Fastify v2.0.0 or later.
+Fastify v3.0.0 or later.
 
 ## Installation
 
