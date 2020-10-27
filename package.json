@@ -1,7 +1,7 @@
 {
   "name": "fastify-shopify-auth",
   "author": "A-J Roos <asjas@outlook.com>",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
