@@ -34,7 +34,7 @@
     "fastify-plugin": "3.0.0",
     "isomorphic-fetch": "3.0.0",
     "nonce": "1.0.4",
-    "shopify-token": "4.0.0"
+    "shopify-token": "4.0.4"
   },
   "devDependencies": {
     "husky": "4.3.6",
