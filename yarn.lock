@@ -5477,10 +5477,10 @@ shellwords@^0.1.1:
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
 
-shopify-token@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/shopify-token/-/shopify-token-4.0.0.tgz#1d4416674864fab48860b4f341a2c8c4097be009"
-  integrity sha512-PQa7Zx5Am646H2Q/mHxQuZQduuvLr96HMBR4jrASAeA7I9bfu4ZACnDYoPLGuVNyYU8tCdicgKK3KjZomU5prg==
+shopify-token@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/shopify-token/-/shopify-token-4.1.0.tgz#a443c2be948e49e2642745bf6cd613b9f2265374"
+  integrity sha512-LWHFmkD6f9bplGOm/oIiekI3JnIuOhnlGn4e0YUnowfxaNf86wT1Zibd9IcYMht68MRDr0WG2oZa7LVnImydpQ==
 
 side-channel@^1.0.2:
   version "1.0.2"
